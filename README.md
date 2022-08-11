@@ -33,7 +33,7 @@ Navigate to the project's folder
 - Run `php artisan key:generate`
 - Run `php artisan migrate`
 - Import the database provided: `quran.sql` into `holyquraan` mysql database
-- Download [Abdulbasit Abdulsamad - Mujawwad Recitation](https://tvquran.com/en/collection/2) and add all the sound files to `public/Quran/Abdul_Bassit_Mujawwad
+- Download [Nasser Al Qatami Recitation](https://www.tvquran.com/en/scholar/90/profile/nasser-alqatami) and add all the sound files to `public/Quran/Nasser-Al-Qatami
 - Run `php artisan serve`
 
 ## NOTICES
