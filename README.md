@@ -4,6 +4,11 @@ A Laravel web application contains the complete Quran with a simple recitation s
 
 Please use this tool wherever you want, but please don't forget to credit this repository.
 
+
+![App Preview](https://raw.githubusercontent.com/xTrimy/holy-quran/master/img/app-preview.png)
+
+![App Preview 2](https://raw.githubusercontent.com/xTrimy/holy-quran/master/img/app-preview-2.png)
+
 ## Contribution
 
 If you'd like to contribute to the project, please fork, fix, commit and send a pull request to be reviewed and merged into the main code base. If you wish to submit more complex changes though, please consider contacting me first to ensure those changes are in line with the general philosophy of the project and/or get some early feedback which can make both your efforts much lighter as well as my review and merge procedures quick and simple.
