@@ -1,7 +1,7 @@
 # read text files line by line and add lines to array
 # then write array to text file
 import json
-reciter = "Abdul_Basit_Mujawwad"
+reciter = "Nasser_Alqatami"
 all_data = []
 for i in range(1, 115):
     # change i to format 001
